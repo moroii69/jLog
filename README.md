@@ -22,4 +22,4 @@ Information about the hardware for the majority of the PCs can be found at: [Har
 
 ## Additional Resources
 
-- **Google Drive Folder**: This folder serves a similar purpose to this repository but includes an additional "logs" folder where keylogger and activity reports are stored. Access it [here](https://drive.google.com/drive/folders/1GGbxs93Jwwu3bXzoySQeIHSKrDVx6tOP).
+- **Google Drive Folder**: This folder serves a similar purpose to this repository but includes an additional "logs" folder where keylogger and activity reports are stored. Access it [here](https://drive.google.com/drive/folders/1GGbxs93Jwwu3bXzoySQeIHSKrDVx6tOP?usp=sharing).

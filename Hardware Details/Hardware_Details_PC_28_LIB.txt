@@ -1,0 +1,385 @@
+Hardware and Network Details - 2024-08-21 11:20:58
+1. Operating System: Windows 11 10.0.22631
+2. Architecture: 64bit
+3. Machine: AMD64
+4. Processor: Intel64 Family 6 Model 165 Stepping 3, GenuineIntel
+5. Computer Model: Vostro 3681
+6. Serial Number: 3B8HN83
+7. CPU Model: Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz
+8. CPU Cores: 6
+9. CPU Threads: 12
+10. CPU Frequency: 2901.0 MHz
+11. CPU Max Frequency: 2901.0 MHz
+12. CPU Min Frequency: 0.0 MHz
+13. Total RAM: 7.75 GB
+14. Available RAM: 1.30 GB
+15. Used RAM: 6.46 GB
+16. Total Swap: 1.64 GB
+17. Available Swap: 1.41 GB
+18. Used Swap: 0.23 GB
+19. Disk Partition 1: C:\
+  - Mount Point: C:\
+  - File System Type: NTFS
+  - Total Size: 930.75 GB
+  - Used: 171.89 GB
+  - Free: 758.86 GB
+20. Battery: N/A
+21. Power Plugged In: N/A
+22. Network Interfaces:
+  - Interface: Ethernet
+    - Address: A4-BB-6D-D7-E0-83 (Family: -1)
+    - Address: 172.23.122.63 (Family: 2)
+    - Address: fe80::6c55:7805:f556:2ab5 (Family: 23)
+  - Interface: Ethernet 2
+    - Address: 0A-00-27-00-00-09 (Family: -1)
+    - Address: 192.168.56.1 (Family: 2)
+    - Address: fe80::f245:6a44:7ed8:5815 (Family: 23)
+  - Interface: WiFi
+    - Address: 18-CC-18-D9-86-E5 (Family: -1)
+    - Address: 169.254.236.2 (Family: 2)
+    - Address: fe80::3e2b:f7a1:9c08:2eaf (Family: 23)
+  - Interface: Local Area Connection* 1
+    - Address: 18-CC-18-D9-86-E6 (Family: -1)
+    - Address: 169.254.1.235 (Family: 2)
+    - Address: fe80::fdb6:6a03:37ca:ab2f (Family: 23)
+  - Interface: Local Area Connection* 2
+    - Address: 1A-CC-18-D9-86-E5 (Family: -1)
+    - Address: 169.254.84.71 (Family: 2)
+    - Address: fe80::9938:65e9:e5e4:17a5 (Family: 23)
+  - Interface: Bluetooth Network Connection
+    - Address: 18-CC-18-D9-86-E9 (Family: -1)
+    - Address: 169.254.165.2 (Family: 2)
+    - Address: fe80::1842:3165:a4bf:caca (Family: 23)
+  - Interface: Loopback Pseudo-Interface 1
+    - Address: 127.0.0.1 (Family: 2)
+    - Address: ::1 (Family: 23)
+23. System Boot Time: 2024-08-21 09:43:05
+24. System Uptime: 1:37:48
+25. CPU Usage Per Core:
+  - Core 0: 7.8%
+  - Core 1: 3.1%
+  - Core 2: 10.8%
+  - Core 3: 3.1%
+  - Core 4: 0.0%
+  - Core 5: 1.6%
+  - Core 6: 12.5%
+  - Core 7: 1.6%
+  - Core 8: 15.6%
+  - Core 9: 0.0%
+  - Core 10: 3.1%
+  - Core 11: 0.0%
+26. CPU Temperature: Error - module 'psutil' has no attribute 'sensors_temperatures'
+27. GPU Info: Not Available (Install GPUtil for more details)
+28. Motherboard: Not Available (Requires specific tools)
+30. RAM Module 2:
+  - Capacity: 8192.00 GB
+  - Speed: 859B0000802C MHz
+  - Manufacturer: 2666
+32. Case Model and Manufacturer: Not Available (Requires physical inspection)
+33. PSU Model and Manufacturer: Not Available (Requires physical inspection)
+34. Optical Drive: N/A
+35. Sound Card: Realtek Audio
+
+
+
+
+
+Caption
+36. USB Ports: Check physically or through system settings
+37. BIOS/UEFI Version: 1.2.0
+38. Wi-Fi Card: Microsoft Kernel Debug Network Adapter
+
+
+
+
+
+Description
+39. Peripherals: Check physically or through system settings
+40. Expansion Cards: Check physically or through system settings
+41. Public IP Address: 103.102.86.146
+23. Network Throughput (bytes per second):
+  - Bytes Sent: 54
+  - Bytes Received: 2049
+24. Default Gateways: DefaultIPGateway:
+
+
+
+
+
+DefaultIPGateway:{"172.23.100.1"}
+
+
+
+
+
+DefaultIPGateway:
+
+
+
+
+
+DefaultIPGateway:
+
+
+
+
+
+DefaultIPGateway:
+
+
+
+
+
+DefaultIPGateway:
+
+
+
+
+
+DefaultIPGateway:
+
+
+
+
+
+DefaultIPGateway:
+
+
+
+
+
+DefaultIPGateway:
+
+
+
+
+
+DefaultIPGateway:
+
+
+
+
+
+DefaultIPGateway:
+
+
+
+
+
+DefaultIPGateway:
+
+
+
+
+
+DefaultIPGateway:
+
+
+
+
+
+DefaultIPGateway:
+
+
+
+
+
+DefaultIPGateway:
+25. DNS Servers: DNSServerSearchOrder:
+
+
+
+
+
+DNSServerSearchOrder:{"172.23.100.1","103.68.176.106","8.8.8.8"}
+
+
+
+
+
+DNSServerSearchOrder:
+
+
+
+
+
+DNSServerSearchOrder:
+
+
+
+
+
+DNSServerSearchOrder:
+
+
+
+
+
+DNSServerSearchOrder:
+
+
+
+
+
+DNSServerSearchOrder:
+
+
+
+
+
+DNSServerSearchOrder:
+
+
+
+
+
+DNSServerSearchOrder:
+
+
+
+
+
+DNSServerSearchOrder:
+
+
+
+
+
+DNSServerSearchOrder:
+
+
+
+
+
+DNSServerSearchOrder:
+
+
+
+
+
+DNSServerSearchOrder:
+
+
+
+
+
+DNSServerSearchOrder:
+
+
+
+
+
+DNSServerSearchOrder:
+26. MAC Addresses and Network Status:
+  - Interface: Ethernet
+    - MAC Address: A4-BB-6D-D7-E0-83
+    - Status: Up
+    - Speed: 1000 Mbps
+  - Interface: Ethernet 2
+    - MAC Address: 0A-00-27-00-00-09
+    - Status: Up
+    - Speed: 1000 Mbps
+  - Interface: WiFi
+    - MAC Address: 18-CC-18-D9-86-E5
+    - Status: Down
+    - Speed: 0 Mbps
+  - Interface: Local Area Connection* 1
+    - MAC Address: 18-CC-18-D9-86-E6
+    - Status: Down
+    - Speed: 0 Mbps
+  - Interface: Local Area Connection* 2
+    - MAC Address: 1A-CC-18-D9-86-E5
+    - Status: Down
+    - Speed: 0 Mbps
+  - Interface: Bluetooth Network Connection
+    - MAC Address: 18-CC-18-D9-86-E9
+    - Status: Down
+    - Speed: 3 Mbps
+  - Interface: Loopback Pseudo-Interface 1
+    - Status: Up
+    - Speed: 1073 Mbps
+27. Network Interface Names and Descriptions: Description:Microsoft Kernel Debug Network Adapter
+
+
+
+
+
+Description:Realtek PCIe GbE Family Controller
+
+
+
+
+
+Description:Intel(R) Dual Band Wireless-AC 3165
+
+
+
+
+
+Description:Bluetooth Device (Personal Area Network)
+
+
+
+
+
+Description:Microsoft Wi-Fi Direct Virtual Adapter
+
+
+
+
+
+Description:Microsoft Wi-Fi Direct Virtual Adapter
+
+
+
+
+
+Description:WAN Miniport (SSTP)
+
+
+
+
+
+Description:WAN Miniport (IKEv2)
+
+
+
+
+
+Description:WAN Miniport (L2TP)
+
+
+
+
+
+Description:WAN Miniport (PPTP)
+
+
+
+
+
+Description:WAN Miniport (PPPOE)
+
+
+
+
+
+Description:WAN Miniport (IP)
+
+
+
+
+
+Description:WAN Miniport (IPv6)
+
+
+
+
+
+Description:WAN Miniport (Network Monitor)
+
+
+
+
+
+Description:VirtualBox Host-Only Ethernet Adapter

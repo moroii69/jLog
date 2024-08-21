@@ -1,0 +1,109 @@
+Hardware and Network Details - 2024-08-21 15:45:33
+1. Operating System: Windows 11 10.0.22631
+2. Architecture: 64bit
+3. Machine: AMD64
+4. Processor: Intel64 Family 6 Model 165 Stepping 3, GenuineIntel
+5. Computer Model: N/A
+6. Serial Number: N/A
+7. CPU Model: Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz
+8. CPU Cores: 6
+9. CPU Threads: 12
+10. CPU Frequency: 1500.0 MHz
+11. CPU Max Frequency: 2901.0 MHz
+12. CPU Min Frequency: 0.0 MHz
+13. Total RAM: 7.75 GB
+14. Available RAM: 2.59 GB
+15. Used RAM: 5.16 GB
+16. Total Swap: 1.25 GB
+17. Available Swap: 1.19 GB
+18. Used Swap: 0.06 GB
+19. Disk Partition 1: C:\
+  - Mount Point: C:\
+  - File System Type: NTFS
+  - Total Size: 930.77 GB
+  - Used: 83.59 GB
+  - Free: 847.18 GB
+20. Battery: N/A
+21. Power Plugged In: N/A
+22. Network Interfaces:
+  - Interface: Ethernet
+    - Address: A4-BB-6D-D9-DD-5F (Family: -1)
+    - Address: 172.23.119.237 (Family: 2)
+    - Address: fe80::7556:f61e:fbe0:8c80 (Family: 23)
+  - Interface: faizBOT..
+    - Address: 96-89-53-2E-BF-34 (Family: -1)
+    - Address: 169.254.138.0 (Family: 2)
+    - Address: fe80::be07:eecf:1512:1ec0 (Family: 23)
+  - Interface: Local Area Connection* 1
+    - Address: 18-CC-18-D9-87-77 (Family: -1)
+    - Address: 169.254.44.81 (Family: 2)
+    - Address: fe80::4ecb:4d5c:430f:637b (Family: 23)
+  - Interface: Local Area Connection* 2
+    - Address: 1A-CC-18-D9-87-76 (Family: -1)
+    - Address: 169.254.225.113 (Family: 2)
+    - Address: fe80::707f:87f1:cf6:359b (Family: 23)
+  - Interface: Bluetooth Network Connection
+    - Address: 18-CC-18-D9-87-7A (Family: -1)
+    - Address: 169.254.147.223 (Family: 2)
+    - Address: fe80::4264:c065:833:a670 (Family: 23)
+  - Interface: Loopback Pseudo-Interface 1
+    - Address: 127.0.0.1 (Family: 2)
+    - Address: ::1 (Family: 23)
+23. System Boot Time: 2024-08-21 12:15:33
+24. System Uptime: 3:29:53
+25. CPU Usage Per Core:
+  - Core 0: 0.0%
+  - Core 1: 0.0%
+  - Core 2: 0.0%
+  - Core 3: 4.8%
+  - Core 4: 0.0%
+  - Core 5: 0.0%
+  - Core 6: 3.1%
+  - Core 7: 0.0%
+  - Core 8: 1.6%
+  - Core 9: 0.0%
+  - Core 10: 1.6%
+  - Core 11: 0.0%
+26. CPU Temperature: Error - module 'psutil' has no attribute 'sensors_temperatures'
+27. GPU Info: Not Available (Install GPUtil for more details)
+28. Motherboard: Not Available (Requires specific tools)
+32. Case Model and Manufacturer: Not Available (Requires physical inspection)
+33. PSU Model and Manufacturer: Not Available (Requires physical inspection)
+34. Optical Drive: N/A
+35. Sound Card: N/A
+36. USB Ports: Check physically or through system settings
+37. BIOS/UEFI Version: N/A
+38. Wi-Fi Card: N/A
+39. Peripherals: Check physically or through system settings
+40. Expansion Cards: Check physically or through system settings
+41. Public IP Address: 103.102.86.146
+23. Network Throughput (bytes per second):
+  - Bytes Sent: 329
+  - Bytes Received: 1184
+24. Default Gateways: N/A
+25. DNS Servers: N/A
+26. MAC Addresses and Network Status:
+  - Interface: Ethernet
+    - MAC Address: A4-BB-6D-D9-DD-5F
+    - Status: Up
+    - Speed: 1000 Mbps
+  - Interface: faizBOT..
+    - MAC Address: 96-89-53-2E-BF-34
+    - Status: Down
+    - Speed: 0 Mbps
+  - Interface: Local Area Connection* 1
+    - MAC Address: 18-CC-18-D9-87-77
+    - Status: Down
+    - Speed: 0 Mbps
+  - Interface: Local Area Connection* 2
+    - MAC Address: 1A-CC-18-D9-87-76
+    - Status: Down
+    - Speed: 0 Mbps
+  - Interface: Bluetooth Network Connection
+    - MAC Address: 18-CC-18-D9-87-7A
+    - Status: Down
+    - Speed: 3 Mbps
+  - Interface: Loopback Pseudo-Interface 1
+    - Status: Up
+    - Speed: 1073 Mbps
+27. Network Interface Names and Descriptions: N/A
